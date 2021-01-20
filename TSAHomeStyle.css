@@ -3,14 +3,14 @@
 
 @media only screen and (min-width:320px) {
 .Button {
-  width: 30px;
+  width: 40px;
   min-height: 120px;
   color: #fff;
   background-color: transparent;
   font-weight: bold;
   font-size: 15px;
   margin-top: 10px;
-  margin-right:40px;
+  margin-right:50px;
   border-color: transparent;
   }
 
