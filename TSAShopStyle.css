@@ -1,0 +1,279 @@
+@media only screen and (min-width:900px) {
+.Button {
+  width: 300px;
+  height: 120px;
+  color: #fff;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right:0px;
+  border-color: transparent;
+  }
+
+body {
+    background-color: #727272;
+    margin-left: 0px;
+    margin-top: 0px;
+    min-width: 100.5%;
+    background-size: 100.5%;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    background-color: #727272;
+    margin-left: 60px;
+}
+
+.price {
+    color: white;
+    margin-top: 5px;
+}
+
+.Image {
+    margin-right: 50px;
+    border-radius: 8px;
+    float: left;
+}
+
+.underImage {
+    margin-left: 610px;
+}
+
+.headbar {
+    min-width: 100%;
+    height: 140px;
+    background-color: #555;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.border {
+    border: 10px solid #555;
+    margin-left: 60px;
+    margin-right: 0px;
+    width: 300px;
+}
+
+#table {
+    margin-right: 0px;
+}
+
+}
+
+@media only screen and (min-width:320px) {
+.Button {
+  width: 150px;
+  height: 120px;
+  color: #fff;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right:10px;
+  border-color: transparent;
+  }
+
+body {
+    background-color: #727272;
+    margin-left: 0px;
+    margin-top: 0px;
+    min-width: 100%;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    background-color: #727272;
+    margin-left: 30px;
+}
+
+.price {
+    color: white;
+    margin-top: 5px;
+}
+
+.Image {
+    margin-right: 50px;
+    border-radius: 8px;
+    float: left;
+}
+
+.underImage {
+    margin-left: 610px;
+}
+
+.headbar {
+    min-width: 100%;
+    height: 140px;
+    background-color: #555;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.border {
+    border: 10px solid #555;
+    margin-left: 10px;
+    margin-right: 0px;
+    width: 200px;
+}
+#table {
+    min-width: 100.5%;
+    margin-right: 0px;
+    border-right: 0px;
+    border-spacing: 0px;
+}
+}
+
+@media only screen and (min-width:375px) {
+.Button {
+  width: 150px;
+  height: 120px;
+  color: #fff;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right:10px;
+  border-color: transparent;
+  }
+
+body {
+    background-color: #727272;
+    margin-left: 0px;
+    margin-top: 0px;
+    min-width: 100%;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    background-color: #727272;
+    margin-left: 30px;
+}
+
+.price {
+    color: white;
+    margin-top: 5px;
+}
+
+.Image {
+    margin-right: 50px;
+    border-radius: 8px;
+    float: left;
+}
+
+.underImage {
+    margin-left: 610px;
+}
+
+.headbar {
+    min-width: 100%;
+    height: 140px;
+    background-color: #555;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.border {
+    border: 10px solid #555;
+    margin-left: 10px;
+    margin-right: 0px;
+    min-width: 150px;
+}
+#table {
+    min-width: 100.5%;
+    margin-right: 0px;
+    border-right: 0px;
+    border-spacing: 0px;
+}
+}
+
+@media only screen and (min-width:200px) {
+.Button {
+  width: 150px;
+  height: 120px;
+  color: #fff;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-right:10px;
+  border-color: transparent;
+  }
+
+body {
+    background-color: #727272;
+    margin-left: 0px;
+    margin-top: 0px;
+    min-width: 100%;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+    background-color: #727272;
+    margin-left: 30px;
+}
+
+.price {
+    color: white;
+    margin-top: 5px;
+}
+
+.Image {
+    margin-right: 50px;
+    border-radius: 8px;
+    float: left;
+}
+
+.underImage {
+    margin-left: 610px;
+}
+
+.headbar {
+    width: 100%;
+    height: 140px;
+    background-color: #555;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.border {
+    border: 10px solid #555;
+    margin-left: 10px;
+    margin-right: 0px;
+    min-width: 75px;
+}
+#table {
+    min-width: 100.5%;
+    margin-right: 0px;
+    border-right: 0px;
+    border-spacing: 0px;
+}
+}
